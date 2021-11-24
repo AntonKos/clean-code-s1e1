@@ -6,28 +6,28 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.img-wrapper {
+aside {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.img-wrapper img {
+aside img {
     width: 100%;
 }
 
-.img-wrapper .more-inf {
+aside .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-    .img-wrapper {
+    aside {
         text-align: center;
     }
 }
 
-.main-wrapper {
+main {
     display: block;
     width: 500px;
     margin: 0 auto 0;
