@@ -130,9 +130,6 @@ input[type="text"]:focus {
 
 }
 
-
-/* New Task */
-
 label[for="new-task"] {
 
   display: block;
@@ -222,5 +219,5 @@ ul li input[type=text] {
 .edit-mode label {
 
   display: none;
-  
+
 }
